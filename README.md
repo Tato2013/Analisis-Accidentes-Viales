@@ -1,5 +1,15 @@
 # Análisis de Accidentes Viales
 
+## Stack Tecnológico
+
+En este proyecto, utilicé Python como lenguaje principal de programación debido a su versatilidad. Trabajé con las siguientes bibliotecas:
+
+    Pandas y NumPy: Utilizadas para el análisis exploratorio de datos y la transformación de los mismos, preparándolos para su uso.
+    Matplotlib y Seaborn: Empleadas para visualizar datos y realizar análisis gráficos.
+    Looker Studio: Utilizado como herramienta de visualización. Aunque esta fue mi primera experiencia con Looker Studio, creo que no pude aprovechar todo su potencial en esta ocasión, pero fue una experiencia valiosa para futuros proyectos.
+
+Esta combinación de tecnologías me permitió realizar análisis detallados de los datos y presentar visualizaciones significativas para el proyecto.
+
 ## Descripción del Problema
 
 Los accidentes viales son eventos comunes en las vías públicas que involucran vehículos y peatones. En ciudades con alto tráfico y densidad poblacional, como Buenos Aires, estos incidentes pueden tener un impacto significativo en la seguridad de las personas y la infraestructura vial.
@@ -66,3 +76,11 @@ Reducir las víctimas mortales en accidentes de tránsito no tiene una solución
 Es como un cuchillo o un martillo: pueden mejorar nuestra vida, pero si no se usan con conciencia, pueden lastimar a otros o a nosotros mismos. El mensaje clave es recordar la responsabilidad al volante y conducir de manera segura.
 
 Juntos podemos hacer que nuestras calles sean más seguras.
+
+## Informacion de contacto
+
+**LinkedIn**: [Marcelo Peralta](https://www.linkedin.com/in/marcelo-peralta2)
+
+**Telefono**:[+5492616325753](https://wa.me/+5492616325753) (Mejor escribir primero al whatsapp)
+
+**mail**: [cheloperalta22@gmail.com](mailto:cheloperalta22@gmail.com)
