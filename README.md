@@ -77,6 +77,10 @@ Es como un cuchillo o un martillo: pueden mejorar nuestra vida, pero si no se us
 
 Juntos podemos hacer que nuestras calles sean más seguras.
 
+Dejo el link para poder verlo:
+
+https://lookerstudio.google.com/u/0/reporting/cbdd912f-f8cf-4465-bfe3-c782159946d0/page/p_gk6h55qu9c
+
 ## Informacion de contacto
 
 **LinkedIn**: [Marcelo Peralta](https://www.linkedin.com/in/marcelo-peralta2)
